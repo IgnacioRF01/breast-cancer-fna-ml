@@ -57,8 +57,7 @@ python src/unsupervised_gmm.py
 ```
 Figures are saved to `figures/`.
 
-## Notes on this version
-Cleaned up in 2026 from the original project scripts: the dataset now loads automatically, figures are saved to files, the k-means baseline mentioned in the report was added as code, and comments and labels were tidied. The models, parameters and results are unchanged.
+
 
 ## Author
 **Ignacio Romero Fragoso**, Biomedical Systems Engineer (UNAM). Exchange student at UC San Diego, Fall 2024.
